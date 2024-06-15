@@ -6,8 +6,6 @@ Through exploratory data analysis and visualization techniques, this report aims
 
 The analysis utilizes SQL queries for data extraction and manipulation, combined with Python libraries such as pandas, psycopg2, and matplotlib for data processing and visualization. Each section of this report provides a detailed examination of specific metrics and trends, offering a comprehensive view of the current job landscape based on the provided dataset.
 
-🔍 SQL queries? Check them out here: [project_sql folder](/project_sql/)
-
 
 ### The questions I wanted to answer through this prject were:
 
